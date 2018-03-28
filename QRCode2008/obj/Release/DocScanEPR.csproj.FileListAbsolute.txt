@@ -1,0 +1,12 @@
+D:\Workspace\WebReport\DocScanEPR\QRCode2008\bin\DocScanEPR.dll.config
+D:\Workspace\WebReport\DocScanEPR\QRCode2008\bin\DocScanEPR.dll
+D:\Workspace\WebReport\DocScanEPR\QRCode2008\bin\DocScanEPR.pdb
+D:\Workspace\WebReport\DocScanEPR\QRCode2008\obj\Release\DocScanEPR.csprojResolveAssemblyReference.cache
+D:\Workspace\WebReport\DocScanEPR\QRCode2008\obj\Release\DocScanEPR.dll
+D:\Workspace\WebReport\DocScanEPR\QRCode2008\obj\Release\DocScanEPR.pdb
+D:\Workspace\WebReport\DocScanEPR_21082015\QRCode2008\bin\DocScanEPR.dll.config
+D:\Workspace\WebReport\DocScanEPR_21082015\QRCode2008\bin\DocScanEPR.dll
+D:\Workspace\WebReport\DocScanEPR_21082015\QRCode2008\bin\DocScanEPR.pdb
+D:\Workspace\WebReport\DocScanEPR_21082015\QRCode2008\obj\Release\DocScanEPR.csprojResolveAssemblyReference.cache
+D:\Workspace\WebReport\DocScanEPR_21082015\QRCode2008\obj\Release\DocScanEPR.dll
+D:\Workspace\WebReport\DocScanEPR_21082015\QRCode2008\obj\Release\DocScanEPR.pdb

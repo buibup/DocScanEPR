@@ -1,0 +1,9 @@
+C:\WorkNa\addonSuccess\ConSentWEB\QRCode2008\bin\ConsentFormWeb.dll
+C:\WorkNa\addonSuccess\ConSentWEB\QRCode2008\bin\ConsentFormWeb.pdb
+C:\WorkNa\addonSuccess\ConSentWEB\QRCode2008\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\WorkNa\addonSuccess\ConSentWEB\QRCode2008\bin\CrystalDecisions.ReportSource.dll
+C:\WorkNa\addonSuccess\ConSentWEB\QRCode2008\bin\CrystalDecisions.Shared.dll
+C:\WorkNa\addonSuccess\ConSentWEB\QRCode2008\bin\CrystalDecisions.Web.dll
+C:\WorkNa\addonSuccess\ConSentWEB\QRCode2008\obj\Debug\ConsentFormWeb.csprojResolveAssemblyReference.cache
+C:\WorkNa\addonSuccess\ConSentWEB\QRCode2008\obj\Debug\ConsentFormWeb.dll
+C:\WorkNa\addonSuccess\ConSentWEB\QRCode2008\obj\Debug\ConsentFormWeb.pdb
